@@ -51,7 +51,7 @@ button:active {
 }
 
 img {
-    max-width: 150px;
+    max-width: 300px;
     margin-bottom: -5px;
     transition: transform 0.3s;
 }
